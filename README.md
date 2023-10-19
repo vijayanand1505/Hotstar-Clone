@@ -1,5 +1,5 @@
 # Hotstar-Clone
-
+ 
 ## Login
 
 Users -> Users are expected to Login with their Google mail Id. The functionality is Provided By FireBase
