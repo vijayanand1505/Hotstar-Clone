@@ -1,7 +1,7 @@
 # Hotstar-Clone
 
 ## Login
-
+ 
 Users -> Users are expected to Login with their Google mail Id. The functionality is Provided By FireBase
 
 Admin -> Single Admin user Id is provided For now (For the Admin Credential PLS. checkout the Admin Component)
