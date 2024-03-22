@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import { useSelector } from "react-redux";
 import { selectRecommend } from "../features/movie/movieSlice";
 import React from "react";
-import Slider from "react-slick"; 
+import Slider from "react-slick";
 
 function SampleNextArrow(props) {
   const { className, style, onClick } = props;
