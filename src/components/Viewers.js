@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-const Viewers = (props) => {
+const Viewers = (props) => { 
   return (
     <Container>
       <Wrap>
