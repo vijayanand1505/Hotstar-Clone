@@ -6,7 +6,7 @@ import "slick-carousel/slick/slick-theme.css";
 import "./img.css";
 
 const ImgSlider = () => {
-  return ( 
+  return (
     <article>
       <Slider className="imageSlider mt-3" {...imageSliderConfig}>
         {sliderImages.map((image) => (
